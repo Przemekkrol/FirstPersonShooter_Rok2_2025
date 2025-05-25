@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+FPS_Gr2_2025_Zadanko/Content/Downtown_Alley/Maps/Assest_Showcase.umap
+FPS_Gr2_2025_Zadanko/Content/Downtown_Alley/Maps/Downtown_Alley_Cloudy.umap
+FPS_Gr2_2025_Zadanko/Content/Downtown_Alley/Maps/Downtown_Alley_Sunny.umap
